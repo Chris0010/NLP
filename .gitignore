@@ -1,3 +1,4 @@
-.idea/*
+.idea/
 NLP with Python/.idea/*
-
+*.xml
+*.iml
