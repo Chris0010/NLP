@@ -1,4 +1,6 @@
 .idea/
-NLP with Python/.idea/*
+*/.idea
 *.xml
 *.iml
+*/.DS_Store
+
